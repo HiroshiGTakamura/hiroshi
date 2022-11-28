@@ -127,11 +127,11 @@
 		desc="Música feita para um jogo feito pela softwool. Foi usada no jogo e no trailer de Tore Cower. As músicas do jogo não possuem nome, erro da minha parte."
 	/>
 	<Song
-		title="Flamínio's OP [Instr.]"
+		title="Flamínio's OP"
 		style="Metalcore Melódico"
 		date="05/2021"
 		file="flaminiosOpV2"
-		desc="Fiz essa música para um amigo, imaginando-o como o personagem principal de um anime shōnen, e essa seria sua música de intro."
+		desc="Fiz essa música para um amigo, imaginando-o como o personagem principal de um anime shōnen, e essa seria sua música de intro. Essa é a versão instrumental."
 	/>
 	<Song
 		title="Unworthy"
