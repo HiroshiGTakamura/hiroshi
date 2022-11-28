@@ -68,7 +68,7 @@
 		style="Música Eletrônica/EDM"
 		date="10/2022"
 		file="feverCold"
-		desc="Usando o mesmo sample pack da Sample Step, eu decidi tentar fazer algo diferente do comum, mas ainda queria a potência do metal. Use as baterias do sample pack e cumpuz todo o resto."
+		desc="Usando o mesmo sample pack da Sample Step, eu decidi tentar fazer algo diferente do comum, mas ainda queria a potência do metal. Usei as baterias do sample pack e cumpuz todo o resto."
 	/>
 	<Song
 		title="Burgundy"
